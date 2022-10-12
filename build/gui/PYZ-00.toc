@@ -1,0 +1,3376 @@
+('D:\\Users\\Francisco '
+ 'Hernandez\\PycharmProjects\\proyectoAutomata\\build\\gui\\PYZ-00.pyz',
+ [('pkg_resources',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('typing', 'D:\\Program Files\\Python310\\lib\\typing.py', 'PYMODULE'),
+  ('contextlib',
+   'D:\\Program Files\\Python310\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('logging',
+   'D:\\Program Files\\Python310\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle', 'D:\\Program Files\\Python310\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'D:\\Program Files\\Python310\\lib\\pprint.py', 'PYMODULE'),
+  ('dataclasses',
+   'D:\\Program Files\\Python310\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('copy', 'D:\\Program Files\\Python310\\lib\\copy.py', 'PYMODULE'),
+  ('_compat_pickle',
+   'D:\\Program Files\\Python310\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct', 'D:\\Program Files\\Python310\\lib\\struct.py', 'PYMODULE'),
+  ('threading', 'D:\\Program Files\\Python310\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local',
+   'D:\\Program Files\\Python310\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string', 'D:\\Program Files\\Python310\\lib\\string.py', 'PYMODULE'),
+  ('packaging.specifiers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('datetime', 'D:\\Program Files\\Python310\\lib\\datetime.py', 'PYMODULE'),
+  ('_strptime', 'D:\\Program Files\\Python310\\lib\\_strptime.py', 'PYMODULE'),
+  ('calendar', 'D:\\Program Files\\Python310\\lib\\calendar.py', 'PYMODULE'),
+  ('argparse', 'D:\\Program Files\\Python310\\lib\\argparse.py', 'PYMODULE'),
+  ('shutil', 'D:\\Program Files\\Python310\\lib\\shutil.py', 'PYMODULE'),
+  ('tarfile', 'D:\\Program Files\\Python310\\lib\\tarfile.py', 'PYMODULE'),
+  ('gzip', 'D:\\Program Files\\Python310\\lib\\gzip.py', 'PYMODULE'),
+  ('_compression',
+   'D:\\Program Files\\Python310\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma', 'D:\\Program Files\\Python310\\lib\\lzma.py', 'PYMODULE'),
+  ('bz2', 'D:\\Program Files\\Python310\\lib\\bz2.py', 'PYMODULE'),
+  ('gettext', 'D:\\Program Files\\Python310\\lib\\gettext.py', 'PYMODULE'),
+  ('pyparsing.testing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('html.entities',
+   'D:\\Program Files\\Python310\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html', 'D:\\Program Files\\Python310\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('pyparsing.results',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pdb', 'D:\\Program Files\\Python310\\lib\\pdb.py', 'PYMODULE'),
+  ('getopt', 'D:\\Program Files\\Python310\\lib\\getopt.py', 'PYMODULE'),
+  ('pydoc', 'D:\\Program Files\\Python310\\lib\\pydoc.py', 'PYMODULE'),
+  ('webbrowser',
+   'D:\\Program Files\\Python310\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket', 'D:\\Program Files\\Python310\\lib\\socket.py', 'PYMODULE'),
+  ('selectors', 'D:\\Program Files\\Python310\\lib\\selectors.py', 'PYMODULE'),
+  ('email.message',
+   'D:\\Program Files\\Python310\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'D:\\Program Files\\Python310\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'D:\\Program Files\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'D:\\Program Files\\Python310\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'D:\\Program Files\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'D:\\Program Files\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'D:\\Program Files\\Python310\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'D:\\Program Files\\Python310\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random', 'D:\\Program Files\\Python310\\lib\\random.py', 'PYMODULE'),
+  ('statistics',
+   'D:\\Program Files\\Python310\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal', 'D:\\Program Files\\Python310\\lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal',
+   'D:\\Program Files\\Python310\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'D:\\Program Files\\Python310\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions', 'D:\\Program Files\\Python310\\lib\\fractions.py', 'PYMODULE'),
+  ('numbers', 'D:\\Program Files\\Python310\\lib\\numbers.py', 'PYMODULE'),
+  ('hashlib', 'D:\\Program Files\\Python310\\lib\\hashlib.py', 'PYMODULE'),
+  ('bisect', 'D:\\Program Files\\Python310\\lib\\bisect.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'D:\\Program Files\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64', 'D:\\Program Files\\Python310\\lib\\base64.py', 'PYMODULE'),
+  ('email.charset',
+   'D:\\Program Files\\Python310\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'D:\\Program Files\\Python310\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'D:\\Program Files\\Python310\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'D:\\Program Files\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'D:\\Program Files\\Python310\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'D:\\Program Files\\Python310\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'D:\\Program Files\\Python310\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'D:\\Program Files\\Python310\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'D:\\Program Files\\Python310\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri', 'D:\\Program Files\\Python310\\lib\\quopri.py', 'PYMODULE'),
+  ('uu', 'D:\\Program Files\\Python310\\lib\\uu.py', 'PYMODULE'),
+  ('optparse', 'D:\\Program Files\\Python310\\lib\\optparse.py', 'PYMODULE'),
+  ('http.server',
+   'D:\\Program Files\\Python310\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http', 'D:\\Program Files\\Python310\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('socketserver',
+   'D:\\Program Files\\Python310\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes', 'D:\\Program Files\\Python310\\lib\\mimetypes.py', 'PYMODULE'),
+  ('http.client',
+   'D:\\Program Files\\Python310\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl', 'D:\\Program Files\\Python310\\lib\\ssl.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'D:\\Program Files\\Python310\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'D:\\Program Files\\Python310\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty', 'D:\\Program Files\\Python310\\lib\\tty.py', 'PYMODULE'),
+  ('subprocess',
+   'D:\\Program Files\\Python310\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'D:\\Program Files\\Python310\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'D:\\Program Files\\Python310\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'D:\\Program Files\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'D:\\Program Files\\Python310\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'D:\\Program Files\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('csv', 'D:\\Program Files\\Python310\\lib\\csv.py', 'PYMODULE'),
+  ('importlib.readers',
+   'D:\\Program Files\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'D:\\Program Files\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy', 'D:\\Program Files\\Python310\\lib\\runpy.py', 'PYMODULE'),
+  ('shlex', 'D:\\Program Files\\Python310\\lib\\shlex.py', 'PYMODULE'),
+  ('signal', 'D:\\Program Files\\Python310\\lib\\signal.py', 'PYMODULE'),
+  ('glob', 'D:\\Program Files\\Python310\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'D:\\Program Files\\Python310\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'D:\\Program Files\\Python310\\lib\\codeop.py', 'PYMODULE'),
+  ('__future__',
+   'D:\\Program Files\\Python310\\lib\\__future__.py',
+   'PYMODULE'),
+  ('dis', 'D:\\Program Files\\Python310\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'D:\\Program Files\\Python310\\lib\\opcode.py', 'PYMODULE'),
+  ('bdb', 'D:\\Program Files\\Python310\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'D:\\Program Files\\Python310\\lib\\cmd.py', 'PYMODULE'),
+  ('pyparsing.actions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'D:\\Program Files\\Python310\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'D:\\Program Files\\Python310\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'D:\\Program Files\\Python310\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid', 'D:\\Program Files\\Python310\\lib\\uuid.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig', 'D:\\Program Files\\Python310\\lib\\sysconfig.py', 'PYMODULE'),
+  ('_aix_support',
+   'D:\\Program Files\\Python310\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'D:\\Program Files\\Python310\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'D:\\Program Files\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp', 'D:\\Program Files\\Python310\\lib\\imp.py', 'PYMODULE'),
+  ('importlib',
+   'D:\\Program Files\\Python310\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('inspect', 'D:\\Program Files\\Python310\\lib\\inspect.py', 'PYMODULE'),
+  ('ast', 'D:\\Program Files\\Python310\\lib\\ast.py', 'PYMODULE'),
+  ('textwrap', 'D:\\Program Files\\Python310\\lib\\textwrap.py', 'PYMODULE'),
+  ('tempfile', 'D:\\Program Files\\Python310\\lib\\tempfile.py', 'PYMODULE'),
+  ('email.parser',
+   'D:\\Program Files\\Python310\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'D:\\Program Files\\Python310\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib', 'D:\\Program Files\\Python310\\lib\\plistlib.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'D:\\Program Files\\Python310\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'D:\\Program Files\\Python310\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml', 'D:\\Program Files\\Python310\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'D:\\Program Files\\Python310\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform', 'D:\\Program Files\\Python310\\lib\\platform.py', 'PYMODULE'),
+  ('pkgutil', 'D:\\Program Files\\Python310\\lib\\pkgutil.py', 'PYMODULE'),
+  ('zipimport', 'D:\\Program Files\\Python310\\lib\\zipimport.py', 'PYMODULE'),
+  ('zipfile', 'D:\\Program Files\\Python310\\lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile',
+   'D:\\Program Files\\Python310\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'D:\\Program Files\\Python310\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'D:\\Program Files\\Python310\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('hmac', 'D:\\Program Files\\Python310\\lib\\hmac.py', 'PYMODULE'),
+  ('multiprocessing.process',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue', 'D:\\Program Files\\Python310\\lib\\queue.py', 'PYMODULE'),
+  ('multiprocessing.queues',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets', 'D:\\Program Files\\Python310\\lib\\secrets.py', 'PYMODULE'),
+  ('multiprocessing.reduction',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'D:\\Program Files\\Python310\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'D:\\Program Files\\Python310\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('getpass', 'D:\\Program Files\\Python310\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path',
+   'D:\\Program Files\\Python310\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib', 'D:\\Program Files\\Python310\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'D:\\Program Files\\Python310\\lib\\netrc.py', 'PYMODULE'),
+  ('http.cookiejar',
+   'D:\\Program Files\\Python310\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('stringprep',
+   'D:\\Program Files\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc', 'D:\\Program Files\\Python310\\lib\\_py_abc.py', 'PYMODULE'),
+  ('model',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\model.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('doctest', 'D:\\Program Files\\Python310\\lib\\doctest.py', 'PYMODULE'),
+  ('difflib', 'D:\\Program Files\\Python310\\lib\\difflib.py', 'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.compat._pep440',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\compat\\_pep440.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json', 'D:\\Program Files\\Python310\\lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder',
+   'D:\\Program Files\\Python310\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'D:\\Program Files\\Python310\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'D:\\Program Files\\Python310\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'D:\\Program Files\\Python310\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'D:\\Program Files\\Python310\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'D:\\Program Files\\Python310\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'D:\\Program Files\\Python310\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest',
+   'D:\\Program Files\\Python310\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'D:\\Program Files\\Python310\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'D:\\Program Files\\Python310\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'D:\\Program Files\\Python310\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'D:\\Program Files\\Python310\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'D:\\Program Files\\Python310\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'D:\\Program Files\\Python310\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'D:\\Program Files\\Python310\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'D:\\Program Files\\Python310\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'D:\\Program Files\\Python310\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'D:\\Program Files\\Python310\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'D:\\Program Files\\Python310\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'D:\\Program Files\\Python310\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys', 'D:\\Program Files\\Python310\\lib\\colorsys.py', 'PYMODULE'),
+  ('PIL.ImageFilter',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'D:\\Program Files\\Python310\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_afm.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('numpy',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triangulation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tritools',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\tritools.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trirefine',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triplot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tripcolor',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triinterpolate',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tricontour',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('contourpy',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\contourpy\\__init__.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\contourpy\\enum_util.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\contourpy\\chunk.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\contourpy\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trifinder',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\tri\\trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.axes._subplots',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\axes\\_subplots.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('kiwisolver',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\kiwisolver\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_docstring.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\cbook\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('cycler',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\cycler.py',
+   'PYMODULE'),
+  ('igraph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\__init__.py',
+   'PYMODULE'),
+  ('igraph.version',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\version.py',
+   'PYMODULE'),
+  ('igraph.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\utils.py',
+   'PYMODULE'),
+  ('igraph.summary',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\summary.py',
+   'PYMODULE'),
+  ('texttable',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\texttable.py',
+   'PYMODULE'),
+  ('igraph.structural',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\structural.py',
+   'PYMODULE'),
+  ('igraph.statistics',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\statistics.py',
+   'PYMODULE'),
+  ('igraph.seq',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\seq.py',
+   'PYMODULE'),
+  ('igraph.operators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\operators\\__init__.py',
+   'PYMODULE'),
+  ('igraph.operators.methods',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\operators\\methods.py',
+   'PYMODULE'),
+  ('igraph.operators.functions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\operators\\functions.py',
+   'PYMODULE'),
+  ('igraph.matching',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\matching.py',
+   'PYMODULE'),
+  ('igraph.layout',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\layout.py',
+   'PYMODULE'),
+  ('igraph.io.images',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\images.py',
+   'PYMODULE'),
+  ('igraph.io.bipartite',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\bipartite.py',
+   'PYMODULE'),
+  ('igraph.io.random',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\random.py',
+   'PYMODULE'),
+  ('igraph.io.libraries',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\libraries.py',
+   'PYMODULE'),
+  ('networkx',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\__init__.py',
+   'PYMODULE'),
+  ('networkx.drawing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_pydot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\drawing\\nx_pydot.py',
+   'PYMODULE'),
+  ('pydot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\pydot.py',
+   'PYMODULE'),
+  ('dot_parser',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\dot_parser.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_agraph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\drawing\\nx_agraph.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_pylab',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\drawing\\nx_pylab.py',
+   'PYMODULE'),
+  ('networkx.drawing.layout',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\drawing\\layout.py',
+   'PYMODULE'),
+  ('networkx.testing.test',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\testing\\test.py',
+   'PYMODULE'),
+  ('networkx.testing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\testing\\__init__.py',
+   'PYMODULE'),
+  ('networkx.testing.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\testing\\utils.py',
+   'PYMODULE'),
+  ('networkx.linalg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('networkx.linalg.bethehessianmatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\bethehessianmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.modularitymatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\modularitymatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.algebraicconnectivity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\algebraicconnectivity.py',
+   'PYMODULE'),
+  ('networkx.linalg.laplacianmatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\laplacianmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.graphmatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\graphmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.spectrum',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\spectrum.py',
+   'PYMODULE'),
+  ('networkx.linalg.attrmatrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\linalg\\attrmatrix.py',
+   'PYMODULE'),
+  ('networkx.algorithms',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.recognition',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\recognition.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.operations',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\operations.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.mst',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\mst.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.decomposition',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\decomposition.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.coding',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\coding.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.branchings',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\branchings.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tree\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tournament',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\tournament.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.tree_isomorphism',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\tree_isomorphism.py',
+   'PYMODULE'),
+  ('networkx.utils.decorators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\decorators.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.ismags',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\ismags.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.temporalisomorphvf2',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\temporalisomorphvf2.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.matchhelpers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\matchhelpers.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.vf2userfunc',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\vf2userfunc.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.isomorphvf2',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\isomorphvf2.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.isomorph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isomorphism\\isomorph.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.networksimplex',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\networksimplex.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.capacityscaling',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\capacityscaling.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.shortestaugmentingpath',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\shortestaugmentingpath.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.preflowpush',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\preflowpush.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.gomory_hu',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\gomory_hu.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.edmondskarp',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\edmondskarp.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.dinitz_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\dinitz_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.boykovkolmogorov',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\boykovkolmogorov.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.mincost',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\mincost.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.maxflow',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\flow\\maxflow.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.louvain',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\louvain.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.community_utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\community_utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.quality',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\quality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.modularity_max',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\modularity_max.py',
+   'PYMODULE'),
+  ('networkx.utils.mapped_queue',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\mapped_queue.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.lukes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\lukes.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.label_propagation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\label_propagation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.kernighan_lin',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\kernighan_lin.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.kclique',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\kclique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.centrality',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\centrality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.asyn_fluid',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\community\\asyn_fluid.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.stoerwagner',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\stoerwagner.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.kcutsets',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\kcutsets.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.kcomponents',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.disjoint_paths',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\disjoint_paths.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.edge_kcomponents',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\edge_kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.edge_augmentation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\edge_augmentation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.cuts',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\cuts.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.connectivity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\connectivity\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\node_classification\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.lgc',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\node_classification\\lgc.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\node_classification\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.hmn',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\node_classification\\hmn.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.generators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\generators.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.spectral',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\spectral.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.redundancy',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\redundancy.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.projection',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\projection.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\matrix.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.matching',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.edgelist',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\edgelist.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.covering',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\covering.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.cluster',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\cluster.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.centrality',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\centrality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.basic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bipartite\\basic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.maxcut',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\maxcut.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.vertex_cover',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\vertex_cover.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.treewidth',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\treewidth.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.traveling_salesman',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\traveling_salesman.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.steinertree',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\steinertree.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.matching',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.kcomponents',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.dominating_set',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\dominating_set.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.distance_measures',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\distance_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.connectivity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.clique',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\clique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.ramsey',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\ramsey.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.clustering_coefficient',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\approximation\\clustering_coefficient.py',
+   'PYMODULE'),
+  ('networkx.algorithms.polynomials',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\polynomials.py',
+   'PYMODULE'),
+  ('networkx.algorithms.wiener',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\wiener.py',
+   'PYMODULE'),
+  ('networkx.algorithms.voronoi',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\voronoi.py',
+   'PYMODULE'),
+  ('networkx.algorithms.vitality',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\vitality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.triads',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\triads.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.edgebfs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\edgebfs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.edgedfs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\edgedfs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.depth_first_search',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\depth_first_search.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.breadth_first_search',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\breadth_first_search.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.beamsearch',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\traversal\\beamsearch.py',
+   'PYMODULE'),
+  ('networkx.algorithms.swap',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\swap.py',
+   'PYMODULE'),
+  ('networkx.algorithms.summarization',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\summarization.py',
+   'PYMODULE'),
+  ('networkx.algorithms.sparsifiers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\sparsifiers.py',
+   'PYMODULE'),
+  ('networkx.algorithms.structuralholes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\structuralholes.py',
+   'PYMODULE'),
+  ('networkx.algorithms.smetric',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\smetric.py',
+   'PYMODULE'),
+  ('networkx.algorithms.smallworld',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\smallworld.py',
+   'PYMODULE'),
+  ('networkx.algorithms.simple_paths',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\simple_paths.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.weighted',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\weighted.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.generic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\generic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.graph_hashing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\graph_hashing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.similarity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\similarity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.dense',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\dense.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.astar',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\astar.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.unweighted',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\shortest_paths\\unweighted.py',
+   'PYMODULE'),
+  ('networkx.algorithms.richclub',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\richclub.py',
+   'PYMODULE'),
+  ('networkx.algorithms.regular',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\regular.py',
+   'PYMODULE'),
+  ('networkx.algorithms.reciprocity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\reciprocity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.planar_drawing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\planar_drawing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.planarity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\planarity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\operators\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.unary',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\operators\\unary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.product',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\operators\\product.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.binary',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\operators\\binary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.all',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\operators\\all.py',
+   'PYMODULE'),
+  ('networkx.algorithms.non_randomness',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\non_randomness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.moral',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\moral.py',
+   'PYMODULE'),
+  ('networkx.algorithms.mis',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\mis.py',
+   'PYMODULE'),
+  ('networkx.algorithms.minors',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\minors\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.minors.contraction',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\minors\\contraction.py',
+   'PYMODULE'),
+  ('networkx.algorithms.matching',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isolate',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\isolate.py',
+   'PYMODULE'),
+  ('networkx.algorithms.lowest_common_ancestors',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\lowest_common_ancestors.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_prediction',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\link_prediction.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\link_analysis\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis.pagerank_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\link_analysis\\pagerank_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis.hits_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\link_analysis\\hits_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.hybrid',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\hybrid.py',
+   'PYMODULE'),
+  ('networkx.algorithms.hierarchy',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\hierarchy.py',
+   'PYMODULE'),
+  ('networkx.algorithms.graphical',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\graphical.py',
+   'PYMODULE'),
+  ('networkx.algorithms.euler',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\euler.py',
+   'PYMODULE'),
+  ('networkx.algorithms.efficiency_measures',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\efficiency_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dominating',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\dominating.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dominance',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\dominance.py',
+   'PYMODULE'),
+  ('networkx.algorithms.distance_regular',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\distance_regular.py',
+   'PYMODULE'),
+  ('networkx.algorithms.distance_measures',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\distance_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dag',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\dag.py',
+   'PYMODULE'),
+  ('networkx.algorithms.d_separation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\d_separation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cuts',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\cuts.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cycles',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\cycles.py',
+   'PYMODULE'),
+  ('networkx.algorithms.covering',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\covering.py',
+   'PYMODULE'),
+  ('networkx.algorithms.core',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\core.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\coloring\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring.equitable_coloring',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\coloring\\equitable_coloring.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring.greedy_coloring',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\coloring\\greedy_coloring.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.semiconnected',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\semiconnected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.biconnected',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\biconnected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.attracting',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\attracting.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.weakly_connected',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\weakly_connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.strongly_connected',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\strongly_connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.connected',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\components\\connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.communicability_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\communicability_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.clique',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\clique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cluster',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\cluster.py',
+   'PYMODULE'),
+  ('networkx.algorithms.chordal',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\chordal.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.voterank_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\voterank_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.trophic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\trophic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.subgraph_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\subgraph_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.second_order',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\second_order.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.reaching',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\reaching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.percolation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\percolation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.load',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\load.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.katz',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\katz.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.harmonic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\harmonic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.group',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\group.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.eigenvector',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\eigenvector.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.dispersion',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\dispersion.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.degree_alg',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\degree_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_closeness',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_closeness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.flow_matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\flow_matrix.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_betweenness_subset',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_betweenness_subset.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_betweenness',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_betweenness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.closeness',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\closeness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.betweenness_subset',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\betweenness_subset.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.betweenness',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\centrality\\betweenness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.chains',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\chains.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bridges',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\bridges.py',
+   'PYMODULE'),
+  ('networkx.algorithms.boundary',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\boundary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.asteroidal',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\asteroidal.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.pairs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\pairs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.neighbor_degree',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\neighbor_degree.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.mixing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\mixing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.correlation',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\correlation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.connectivity',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\algorithms\\assortativity\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.readwrite',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\__init__.py',
+   'PYMODULE'),
+  ('networkx.readwrite.text',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\text.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\__init__.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.cytoscape',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\cytoscape.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.jit',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\jit.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.tree',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\tree.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.adjacency',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\adjacency.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.node_link',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\json_graph\\node_link.py',
+   'PYMODULE'),
+  ('networkx.readwrite.nx_shp',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\nx_shp.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gexf',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\gexf.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'D:\\Program Files\\Python310\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'D:\\Program Files\\Python310\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'D:\\Program Files\\Python310\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'D:\\Program Files\\Python310\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'D:\\Program Files\\Python310\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('networkx.readwrite.graphml',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\graphml.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gml',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\gml.py',
+   'PYMODULE'),
+  ('networkx.readwrite.graph6',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\graph6.py',
+   'PYMODULE'),
+  ('networkx.readwrite.sparse6',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\sparse6.py',
+   'PYMODULE'),
+  ('networkx.readwrite.leda',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\leda.py',
+   'PYMODULE'),
+  ('networkx.readwrite.pajek',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\pajek.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gpickle',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\gpickle.py',
+   'PYMODULE'),
+  ('networkx.readwrite.edgelist',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\edgelist.py',
+   'PYMODULE'),
+  ('networkx.readwrite.multiline_adjlist',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\multiline_adjlist.py',
+   'PYMODULE'),
+  ('networkx.readwrite.adjlist',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\readwrite\\adjlist.py',
+   'PYMODULE'),
+  ('networkx.generators',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\__init__.py',
+   'PYMODULE'),
+  ('networkx.generators.triads',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\triads.py',
+   'PYMODULE'),
+  ('networkx.generators.trees',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\trees.py',
+   'PYMODULE'),
+  ('networkx.generators.stochastic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\stochastic.py',
+   'PYMODULE'),
+  ('networkx.generators.spectral_graph_forge',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\spectral_graph_forge.py',
+   'PYMODULE'),
+  ('networkx.generators.sudoku',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\sudoku.py',
+   'PYMODULE'),
+  ('networkx.generators.social',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\social.py',
+   'PYMODULE'),
+  ('networkx.generators.small',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\small.py',
+   'PYMODULE'),
+  ('networkx.generators.random_graphs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\random_graphs.py',
+   'PYMODULE'),
+  ('networkx.generators.random_clustered',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\random_clustered.py',
+   'PYMODULE'),
+  ('networkx.generators.nonisomorphic_trees',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\nonisomorphic_trees.py',
+   'PYMODULE'),
+  ('networkx.generators.mycielski',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\mycielski.py',
+   'PYMODULE'),
+  ('networkx.generators.line',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\line.py',
+   'PYMODULE'),
+  ('networkx.generators.lattice',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\lattice.py',
+   'PYMODULE'),
+  ('networkx.generators.joint_degree_seq',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\joint_degree_seq.py',
+   'PYMODULE'),
+  ('networkx.generators.interval_graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\interval_graph.py',
+   'PYMODULE'),
+  ('networkx.generators.intersection',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\intersection.py',
+   'PYMODULE'),
+  ('networkx.generators.internet_as_graphs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\internet_as_graphs.py',
+   'PYMODULE'),
+  ('networkx.generators.geometric',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\geometric.py',
+   'PYMODULE'),
+  ('networkx.generators.expanders',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\expanders.py',
+   'PYMODULE'),
+  ('networkx.generators.ego',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\ego.py',
+   'PYMODULE'),
+  ('networkx.generators.duplication',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\duplication.py',
+   'PYMODULE'),
+  ('networkx.generators.directed',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\directed.py',
+   'PYMODULE'),
+  ('networkx.generators.degree_seq',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\degree_seq.py',
+   'PYMODULE'),
+  ('networkx.generators.community',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\community.py',
+   'PYMODULE'),
+  ('networkx.generators.cographs',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\cographs.py',
+   'PYMODULE'),
+  ('networkx.generators.classic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\classic.py',
+   'PYMODULE'),
+  ('networkx.generators.atlas',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\generators\\atlas.py',
+   'PYMODULE'),
+  ('networkx.relabel',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\relabel.py',
+   'PYMODULE'),
+  ('networkx.convert_matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\convert_matrix.py',
+   'PYMODULE'),
+  ('networkx.convert',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\convert.py',
+   'PYMODULE'),
+  ('networkx.classes.filters',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\filters.py',
+   'PYMODULE'),
+  ('networkx.classes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\__init__.py',
+   'PYMODULE'),
+  ('networkx.classes.reportviews',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\reportviews.py',
+   'PYMODULE'),
+  ('networkx.classes.graphviews',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\graphviews.py',
+   'PYMODULE'),
+  ('networkx.classes.coreviews',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\coreviews.py',
+   'PYMODULE'),
+  ('networkx.classes.function',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\function.py',
+   'PYMODULE'),
+  ('networkx.classes.ordered',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\ordered.py',
+   'PYMODULE'),
+  ('networkx.classes.multidigraph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\multidigraph.py',
+   'PYMODULE'),
+  ('networkx.classes.multigraph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\multigraph.py',
+   'PYMODULE'),
+  ('networkx.classes.digraph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\digraph.py',
+   'PYMODULE'),
+  ('networkx.classes.graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\classes\\graph.py',
+   'PYMODULE'),
+  ('networkx.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\__init__.py',
+   'PYMODULE'),
+  ('networkx.utils.contextmanagers',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\contextmanagers.py',
+   'PYMODULE'),
+  ('networkx.utils.heaps',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\heaps.py',
+   'PYMODULE'),
+  ('networkx.utils.rcm',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\rcm.py',
+   'PYMODULE'),
+  ('networkx.utils.union_find',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\union_find.py',
+   'PYMODULE'),
+  ('networkx.utils.random_sequence',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\random_sequence.py',
+   'PYMODULE'),
+  ('networkx.utils.misc',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\utils\\misc.py',
+   'PYMODULE'),
+  ('networkx.exception',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\exception.py',
+   'PYMODULE'),
+  ('networkx.lazy_imports',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\networkx\\lazy_imports.py',
+   'PYMODULE'),
+  ('igraph.io.adjacency',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\adjacency.py',
+   'PYMODULE'),
+  ('igraph.sparse_matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\sparse_matrix.py',
+   'PYMODULE'),
+  ('igraph.io.objects',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\objects.py',
+   'PYMODULE'),
+  ('igraph.io.files',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\files.py',
+   'PYMODULE'),
+  ('igraph.io',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\io\\__init__.py',
+   'PYMODULE'),
+  ('igraph.formula',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\formula.py',
+   'PYMODULE'),
+  ('igraph.datatypes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\datatypes.py',
+   'PYMODULE'),
+  ('igraph.drawing.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\utils.py',
+   'PYMODULE'),
+  ('igraph.drawing.graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\graph.py',
+   'PYMODULE'),
+  ('igraph.remote.gephi',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\remote\\gephi.py',
+   'PYMODULE'),
+  ('igraph.remote',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\remote\\__init__.py',
+   'PYMODULE'),
+  ('igraph.drawing.baseclasses',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\baseclasses.py',
+   'PYMODULE'),
+  ('igraph.drawing.text',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\text.py',
+   'PYMODULE'),
+  ('igraph.drawing.colors',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\colors.py',
+   'PYMODULE'),
+  ('igraph.drawing',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly.graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\graph.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\__init__.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly.vertex',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\vertex.py',
+   'PYMODULE'),
+  ('igraph.drawing.metamagic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\metamagic.py',
+   'PYMODULE'),
+  ('configparser',
+   'D:\\Program Files\\Python310\\lib\\configparser.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly.polygon',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\polygon.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly.edge',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\edge.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.palette',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\palette.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.histogram',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\histogram.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\matrix.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\graph.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.vertex',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\vertex.py',
+   'PYMODULE'),
+  ('igraph.drawing.shapes',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\shapes.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.polygon',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\polygon.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.edge',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\edge.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.palette',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\palette.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\__init__.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\base.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.histogram',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\histogram.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.coord',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\coord.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.matrix',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\matrix.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.graph',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\graph.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.vertex',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\vertex.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.text',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\text.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.polygon',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\polygon.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.edge',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\edge.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.plot',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\plot.py',
+   'PYMODULE'),
+  ('igraph.drawing.plotly.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\plotly\\utils.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\utils.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.utils',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\utils.py',
+   'PYMODULE'),
+  ('igraph.configuration',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\configuration.py',
+   'PYMODULE'),
+  ('igraph.cut',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\cut.py',
+   'PYMODULE'),
+  ('igraph.clustering',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\clustering.py',
+   'PYMODULE'),
+  ('igraph.drawing.matplotlib.dendrogram',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\matplotlib\\dendrogram.py',
+   'PYMODULE'),
+  ('igraph.drawing.cairo.dendrogram',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\drawing\\cairo\\dendrogram.py',
+   'PYMODULE'),
+  ('igraph.community',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\community.py',
+   'PYMODULE'),
+  ('igraph.bipartite',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\bipartite.py',
+   'PYMODULE'),
+  ('igraph.basic',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\basic.py',
+   'PYMODULE'),
+  ('igraph.automorphisms',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\automorphisms.py',
+   'PYMODULE'),
+  ('igraph.adjacency',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\igraph\\adjacency.py',
+   'PYMODULE'),
+  ('automata.fa.dfa',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\fa\\dfa.py',
+   'PYMODULE'),
+  ('automata.fa',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\fa\\__init__.py',
+   'PYMODULE'),
+  ('automata',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\__init__.py',
+   'PYMODULE'),
+  ('automata.fa.fa',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\fa\\fa.py',
+   'PYMODULE'),
+  ('automata.base.automaton',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\base\\automaton.py',
+   'PYMODULE'),
+  ('automata.base',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\base\\__init__.py',
+   'PYMODULE'),
+  ('automata.base.exceptions',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\automata\\base\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt6',
+   'D:\\Users\\Francisco '
+   'Hernandez\\PycharmProjects\\proyectoAutomata\\venv\\lib\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE')])

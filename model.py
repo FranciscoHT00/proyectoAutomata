@@ -71,7 +71,6 @@ class AppAutomata:
         self.active_automata = self.automata_kleene
         self.active_graph = self.graph_kleene
         self.active_automata_tag = 'automata_kleene'
-        # self.cancel = False
         self.speed = 'normal'
         self.fig, self.ax = plt.subplots(figsize=(12, 10))
 

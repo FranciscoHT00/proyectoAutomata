@@ -4,6 +4,7 @@ from PyQt6 import QtCore as qtc
 from PyQt6 import QtGui as qtg
 import time
 
+
 from model import AppAutomata
 
 
@@ -30,7 +31,6 @@ class ControlPanel(qtw.QWidget):
 
         self.start_button = qtw.QPushButton('Iniciar')
         self.start_button.clicked.connect(self.start_button_pressed)
-        # self.cancel_button = qtw.QPushButton('Cancelar')
 
         self.speed_label = qtw.QLabel('VELOCIDAD')
         self.speed_label.setFixedHeight(20)
@@ -39,37 +39,26 @@ class ControlPanel(qtw.QWidget):
         self.speed_state.setReadOnly(True)
 
         self.speed_buttonGroup = qtw.QButtonGroup()
-        # self.step_speed_button = qtw.QPushButton('Paso a paso')
-        # self.step_speed_button.clicked.connect(self.step_speed_button_pressed)
         self.slow_speed_button = qtw.QPushButton('Lenta')
         self.slow_speed_button.clicked.connect(self.slow_speed_button_pressed)
         self.normal_speed_button = qtw.QPushButton('Normal')
         self.normal_speed_button.clicked.connect(self.normal_speed_button_pressed)
         self.fast_speed_button = qtw.QPushButton('Rápida')
         self.fast_speed_button.clicked.connect(self.fast_speed_button_pressed)
-        # self.instant_speed_button = qtw.QPushButton('Instantánea')
-        # self.instant_speed_button.clicked.connect(self.instant_speed_button_pressed)
-        # self.speed_buttonGroup.addButton(self.step_speed_button)
         self.speed_buttonGroup.addButton(self.slow_speed_button)
         self.speed_buttonGroup.addButton(self.normal_speed_button)
         self.speed_buttonGroup.addButton(self.fast_speed_button)
-        # self.speed_buttonGroup.addButton(self.instant_speed_button)
-        # self.next_button = qtw.QPushButton('Siguiente')
 
         self.layout().addWidget(self.word_label)
         self.layout().addWidget(self.word_input)
         self.layout().addWidget(self.state_label)
         self.layout().addWidget(self.state_output)
         self.layout().addWidget(self.start_button)
-        # self.layout().addWidget(self.cancel_button)
         self.layout().addWidget(self.speed_label)
         self.layout().addWidget(self.speed_state)
-        # self.layout().addWidget(self.step_speed_button)
         self.layout().addWidget(self.slow_speed_button)
         self.layout().addWidget(self.normal_speed_button)
         self.layout().addWidget(self.fast_speed_button)
-        # self.layout().addWidget(self.instant_speed_button)
-        # self.layout().addWidget(self.next_button)
 
     def start_button_pressed(self):
         self.start_signal.emit(self.word_input.text())
@@ -179,9 +168,6 @@ class MainWindow(qtw.QMainWindow):
             for i in result:
                 last = i
                 self.controlPanel.state_output.append(last)
-                # self.model.reset_graph()
-                # self.load_graph_img()
-                # time.sleep(0.5)
                 self.model.update_graph(last)
                 self.load_graph_img()
 
@@ -193,7 +179,6 @@ class MainWindow(qtw.QMainWindow):
                     time.sleep(1)
                 elif self.model.speed == 'fast':
                     time.sleep(0.5)
-
         except:
             self.model.update_graph_error(last)
             self.load_graph_img()
@@ -206,6 +191,7 @@ class MainWindow(qtw.QMainWindow):
     def set_speed(self, speed):
         self.model.speed = speed
         self.controlPanel.speed_state.setText(self.model.speed)
+
 
 if __name__ == '__main__':
     app = qtw.QApplication(sys.argv)
