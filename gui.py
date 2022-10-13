@@ -19,6 +19,11 @@ class ControlPanel(qtw.QWidget):
         self.setLayout(qtw.QVBoxLayout())
         self.setFixedSize(150, 500)
 
+        self.automata_pixmap = qtg.QPixmap()
+        self.automata_pixmap.load('./img/kleene_label.PNG')
+        self.automata_label = qtw.QLabel()
+        self.automata_label.setFixedSize(140, 40)
+        self.automata_label.setPixmap(self.automata_pixmap.scaled(150, 60))
         self.word_label = qtw.QLabel('PALABRA')
         self.word_label.setFixedHeight(20)
         self.word_label.setAlignment(qtc.Qt.AlignmentFlag.AlignCenter)
@@ -49,6 +54,7 @@ class ControlPanel(qtw.QWidget):
         self.speed_buttonGroup.addButton(self.normal_speed_button)
         self.speed_buttonGroup.addButton(self.fast_speed_button)
 
+        self.layout().addWidget(self.automata_label)
         self.layout().addWidget(self.word_label)
         self.layout().addWidget(self.word_input)
         self.layout().addWidget(self.state_label)
@@ -97,7 +103,7 @@ class MainWindow(qtw.QMainWindow):
         self.model = AppAutomata()
 
         self.pixmap = qtg.QPixmap()
-        self.pixmap.load('./img/graph.svg')
+        self.pixmap.load('./img/graph.png')
         self.image_label = qtw.QLabel()
         self.image_label.setPixmap(self.pixmap)
         self.setCentralWidget(self.image_label)
@@ -133,7 +139,7 @@ class MainWindow(qtw.QMainWindow):
         self.show()
 
     def load_graph_img(self):
-        self.pixmap.load('./img/graph.svg')
+        self.pixmap.load('./img/graph.png')
         self.image_label.setPixmap(self.pixmap)
         self.update()
         self.image_label.repaint()
@@ -143,7 +149,6 @@ class MainWindow(qtw.QMainWindow):
 
         self.model.reset_graph()
         self.load_graph_img()
-
 
     def load_automata_kleene(self):
 

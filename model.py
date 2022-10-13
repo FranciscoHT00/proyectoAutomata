@@ -72,7 +72,7 @@ class AppAutomata:
         self.active_graph = self.graph_kleene
         self.active_automata_tag = 'automata_kleene'
         self.speed = 'normal'
-        self.fig, self.ax = plt.subplots(figsize=(12, 10))
+        self.fig, self.ax = plt.subplots(figsize=(9, 7))
 
     def reset_graph(self):
         graph = self.active_graph
@@ -89,7 +89,7 @@ class AppAutomata:
             vertex_label_size=20.0
         )
 
-        self.fig.savefig('./img/graph.svg')
+        self.fig.savefig('./img/graph.png')
 
     def update_graph(self, last):
         graph = self.active_graph
@@ -106,7 +106,7 @@ class AppAutomata:
             vertex_label_size=20.0
         )
 
-        self.fig.savefig('./img/graph.svg')
+        self.fig.savefig('./img/graph.png')
 
     def update_graph_error(self, last):
         graph = self.active_graph
@@ -123,15 +123,11 @@ class AppAutomata:
             vertex_label_size=20.0
         )
 
-        self.fig.savefig('./img/graph.svg')
+        self.fig.savefig('./img/graph.png')
 
     def validate_word(self, word):
         result = self.active_automata.read_input_stepwise(word)
         return result
 
 
-if __name__ == '__main__':
-    app = AppAutomata()
 
-    for i in app.validate_word('abcd'):
-        print (i)
